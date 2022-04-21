@@ -14,6 +14,6 @@ Making the AGV involved the following tasks:
 
 Video link for simulation of the AGV in Gazebo: https://youtube.com/playlist?list=PLCh5SBkKMYlupPjIG5wdsTn_vT5Os9wWy
 
-Here's a glimpse of the AGV looked like: 
+Here's a glimpse of how the AGV looked like: 
 
 ![image](https://user-images.githubusercontent.com/40053959/164430961-2357292e-258d-42ba-bfc6-e456e68d53ff.png)
